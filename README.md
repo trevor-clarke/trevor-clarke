@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trevor-clarke&label=Profile%20views&color=0e75b6&style=flat" alt="trevor-clarke" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trevor-clarke" alt="trevor-clarke" /></a> </p>
-
 - 🔭 I’m currently working at Shopify on our [Storefront Renderer](https://shopify.engineering/how-shopify-reduced-storefront-response-times-rewrite)
 
 - 👯 I’m looking to collaborate on **ANYTHING! Please message me.**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trevor-clarke&" alt="trevor-clarke" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trevor-clarke&show_icons=true&locale=en" alt="trevor-clarke" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trevor-clarke&" alt="trevor-clarke" /></p>
