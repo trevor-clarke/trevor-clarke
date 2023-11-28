@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trevor Clarke </h1>
-<h3 align="center">A super friendly, software-developer based in Canada.</h3>
+<h3 align="center">A super friendly software-developer based in Canada.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trevor-clarke&label=Profile%20views&color=0e75b6&style=flat" alt="trevor-clarke" /> </p>
 
