@@ -33,7 +33,7 @@ gantt
     
 ```
     
-    </details>
+</details>
 </div>
 
 
