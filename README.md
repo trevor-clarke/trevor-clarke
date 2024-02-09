@@ -14,14 +14,6 @@ I'm currently contributing to the growth of Shopify, working on our [Storefront 
 
 ---
 
-<div align="left">
-
-![Trevor's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trevor-clarke)
-
-</div>
-
----
-
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
@@ -41,6 +33,15 @@ gantt
     section School
     Education :2018-01-01, 2023-05-31
 ```
+
+---
+
+<div align="left">
+
+![Trevor's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trevor-clarke)
+
+</div>
+
 ---
 
 ## 📫 How to reach me:
