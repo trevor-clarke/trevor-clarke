@@ -17,7 +17,6 @@ I'm currently contributing to the growth of Shopify, working on our [Storefront 
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title Work Experience and Education Timeline
 
     section Shopify
     Developer @ Shopify's SFR :a1, 2023-09-01, 2024-02-09
