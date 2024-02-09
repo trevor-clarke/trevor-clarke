@@ -42,7 +42,7 @@ gantt
 
 <div align="left">
     
-| About Me | [Bookshelf](/books/README.md) | Column 3 |
+| [Bookshelf](/books/README.md) | `#todo` | `#todo`  |
 | -------- | ----------------------------- | -------- |
 
 </div>
