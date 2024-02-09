@@ -5,39 +5,41 @@
 
 </div>
 
-### Hi there, I'm Trevor Clarke 👋
+👋 Hey there! 
 
+I'm **Trevor Clarke,** a human based out of Canada. I work for [Shopify](https://github.com/Shopify) and contribute to [Storefront Renderer](https://shopify.engineering/how-shopify-reduced-storefront-response-times-rewrite).
 
-  
-Afrom Canada 🍁
-    Photographer
-    Corgi owner
-    
+So far, I've done 5 years of school, 6 internships and countless amazing people.
 
----
-
-I'm currently contributing to the growth of Shopify, working on our [Storefront Renderer](https://shopify.engineering/how-shopify-reduced-storefront-response-times-rewrite). I'm always open to collaborating on interesting projects and innovative ideas. Feel free to reach out to me!
-
----
+<div align="right">
+    <details>
+<summary>
+    <i>see timeline</i>
+</summary>
 
 ```mermaid
-gantt
-    dateFormat  YYYY-MM-DD
-
-    section Shopify
-    Developer @ Shopify's SFR :a1, 2023-09-01, 2024-02-09
-    Intern @ Shopify's SFR    :after a1, 2022-01-01, 2023-05-31
-    Intern @ Shopify's SFN :2021-05-01, 2021-12-31
-
-    section BMO
-    Intern @ BMO    :2020-09-01, 2021-04-30
-
-    section Sustainable Housing Manufacturing Company
-    Intern    :2020-01-01, 2020-08-31
-
-    section School
-    Education :2018-01-01, 2023-05-31
+    gantt
+        dateFormat  YYYY-MM-DD
+    
+        section Shopify
+        Developer @ Shopify's SFR :a1, 2023-09-01, 2024-02-09
+        Intern @ Shopify's SFR    :after a1, 2022-01-01, 2023-05-31
+        Intern @ Shopify's SFN :2021-05-01, 2021-12-31
+    
+        section BMO
+        Intern @ BMO    :2020-09-01, 2021-04-30
+    
+        section BeeHome
+        Intern    :2020-01-01, 2020-08-31
+    
+        section School
+        Education :2018-01-01, 2023-05-31
 ```
+
+</details>
+</div>
+
+
 
 ---
 
