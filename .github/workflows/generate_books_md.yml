@@ -25,7 +25,8 @@ jobs:
         git diff
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
-        git commit -am "Update books.md" || exit 0
+        git add .
+        git commit -m "Update books.md" || exit 0
         git push origin HEAD:main
       env:
-        GITHUB_TOKEN: ${{ secrets.BOOK_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
