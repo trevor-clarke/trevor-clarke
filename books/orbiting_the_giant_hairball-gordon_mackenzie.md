@@ -1,4 +1,4 @@
-# Orbiting the Giant Hairball :-)
+# Orbiting the Giant Hairball 
 
 ## General Info
 
