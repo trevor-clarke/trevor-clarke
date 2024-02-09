@@ -20,10 +20,11 @@ jobs:
     - name: Run script
       run: python generate_books_md.py
 
-    - name: Commit and push if it changed
-      run: |
-        git diff
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
-        git commit -am "Update books.md" || exit 0
-        git push origin HEAD:master
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: "Update books.md"
+        title: "Update books.md"
+        body: "Updates to books.md"
+        branch: "updates/books-md"
