@@ -4,7 +4,7 @@ I'm **Trevor Clarke,** a human based in Canada. I work for [Shopify](https://git
 
 So far I've experienced <b>5 years of school</b>, <b>6 internships</b>, and countless <b>amazing people</b>.
 
-If you'd like to get in touch, reach out to me on [my linkedin page](https://linkedin.com/in/trevorclarketc).
+If you'd like to get in touch, reach out to me on [linkedin](https://linkedin.com/in/trevorclarketc).
 
 <div align="left">
 <details>
