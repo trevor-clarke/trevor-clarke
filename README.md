@@ -36,13 +36,11 @@ gantt
 </details>
 </div>
 
-
-
-<br><br>
+<br>
 
 <div align="left">
     
-| [Bookshelf](/books/README.md) | `#todo` | `#todo`  |
+| [`bookshelf`](/books/README.md) | `#todo` | `#todo`  |
 | -------- | ----------------------------- | -------- |
 
 </div>
