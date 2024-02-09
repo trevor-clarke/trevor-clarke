@@ -3,8 +3,11 @@ import glob
 import re
 
 def generate_books_md():
-    # Read the existing books.md file
-    with open('books.md', 'r') as infile:
+    # Define the path to the README.md file
+    readme_path = 'books/README.md'
+
+    # Read the existing README.md file
+    with open(readme_path, 'r') as infile:
         content = infile.read()
 
     # Generate the book table
@@ -12,6 +15,8 @@ def generate_books_md():
     book_table += "| Title | Author | Started Reading | Finished Reading | Genres | Rating |\n"
     book_table += "| --- | --- | --- | --- | --- | --- |\n"
     for filename in glob.glob('books/*.md'):
+        if filename == readme_path:
+            continue  # Skip the README.md file
         with open(filename, 'r') as readfile:
             # Initialize the book info
             title = author = start_date = end_date = genres = rating = ''
@@ -30,14 +35,14 @@ def generate_books_md():
                 elif line.startswith('| Enjoyability'):
                     rating = line.split('|')[2].strip()
             # Write the book info in the table
-            book_table += f"| [{title}](books/{os.path.basename(filename)}) | {author} | {start_date} | {end_date} | {genres} | {rating} |\n"
+            book_table += f"| [{title}]({os.path.basename(filename)}) | {author} | {start_date} | {end_date} | {genres} | {rating} |\n"
     book_table += "<!--BOOK_TABLE_END-->\n"
 
     # Replace the old book table with the new one
     new_content = re.sub('<!--BOOK_TABLE_START-->.*<!--BOOK_TABLE_END-->', book_table, content, flags=re.DOTALL)
 
-    # Write the new books.md file
-    with open('books.md', 'w') as outfile:
+    # Write the new README.md file
+    with open(readme_path, 'w') as outfile:
         outfile.write(new_content)
 
 if __name__ == "__main__":
