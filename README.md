@@ -14,7 +14,7 @@ I'm currently contributing to the growth of Shopify, working on our [Storefront 
 
 ---
 
-<div align="center">
+<div align="left">
 
 ![Trevor's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trevor-clarke)
 
