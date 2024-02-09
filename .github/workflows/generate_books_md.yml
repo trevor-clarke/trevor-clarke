@@ -4,7 +4,8 @@ on:
   push:
     paths:
       - 'books/*.md'
-
+env:
+    GITHUB_TOKEN: ${{ secrets.BOOK_TOKEN }}
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -28,5 +29,4 @@ jobs:
         git add .
         git commit -m "Update books.md" || exit 0
         git push origin HEAD:main
-      env:
-        GITHUB_TOKEN: ${{ secrets.BOOK_TOKEN }}
+   
