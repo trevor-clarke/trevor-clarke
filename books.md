@@ -1,7 +1,8 @@
 # My Book Reviews
 
-Here are my thoughts on the books I've read. Click on a title to read the full review.
+Welcome to my book reviews! I love reading and I often take notes on the books I read. Here you'll find a table summarizing the books I've read and my ratings for them. Click on a title to read the full review.
 
-| Title | Author | Started Reading | Finished Reading | Genres | Rating |
-| --- | --- | --- | --- | --- | --- |
-| [Orbiting the Giant Hairball](books/orbiting_the_giant_hairball-gordon_mackenzie.md) | Gordon MacKenzie | * {Start Date} | {End Date} | * {Genre1, Genre2, ....} | 4.5 |
+<!--BOOK_TABLE_START-->
+<!--BOOK_TABLE_END-->
+
+Happy reading!
