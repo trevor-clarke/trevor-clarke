@@ -1,4 +1,21 @@
-# Orbiting the Giant Hairball 
+# My Book Reviews
+
+Here are my thoughts on the books I've read. Click on a title to read the full review.
+
+## Table of Contents
+
+- [Orbiting the Giant Hairball :-)](#orbiting-the-giant-hairball-:-))
+  - [General Info](#orbiting-the-giant-hairball-:-)-general-info)
+  - [Summary](#orbiting-the-giant-hairball-:-)-summary)
+  - [My Thoughts](#orbiting-the-giant-hairball-:-)-my-thoughts)
+  - [Take-Aways](#orbiting-the-giant-hairball-:-)-take-aways)
+  - [Plusses](#orbiting-the-giant-hairball-:-)-plusses)
+  - [Minuses](#orbiting-the-giant-hairball-:-)-minuses)
+  - [Ratings](#orbiting-the-giant-hairball-:-)-ratings)
+
+---
+
+# Orbiting the Giant Hairball :-)
 
 ## General Info
 
