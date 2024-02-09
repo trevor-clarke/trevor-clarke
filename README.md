@@ -1,12 +1,18 @@
-<div align="left">
-
-# Hi there, I'm Trevor Clarke 👋
-
-### A Passionate Software Developer from Canada 🍁
-
-![Profile Views](https://komarev.com/ghpvc/?username=trevor-clarke&color=0e75b6&style=flat)
+<div align="right">
+    
+| About Me | [Bookshelf](/books/README.md) | Column 3 |
+| -------- | ----------------------------- | -------- |
 
 </div>
+
+### Hi there, I'm Trevor Clarke 👋
+
+
+  
+Afrom Canada 🍁
+    Photographer
+    Corgi owner
+    
 
 ---
 
@@ -52,3 +58,5 @@ You can connect with me on LinkedIn, I'll be happy to see you there!
 </a>
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=trevor-clarke&color=0e75b6&style=flat)
