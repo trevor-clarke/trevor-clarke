@@ -39,6 +39,9 @@ So far, I've done 5 years of school, 6 internships and countless amazing people.
 </details>
 </div>
 
+<img src="trevor_clarke.png" width="100" height="100">
+
+
 
 
 ---
