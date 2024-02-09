@@ -22,6 +22,27 @@ I'm currently contributing to the growth of Shopify, working on our [Storefront 
 
 ---
 
+```mermaid
+gantt
+    dateFormat  YYYY-MM-DD
+    title Work Experience and Education Timeline
+
+    section Shopify
+    Developer @ Shopify's SFR :a1, 2023-09-01, 2024-02-09
+    Intern @ Shopify's SFR    :after a1, 2022-01-01, 2023-05-31
+    Intern @ Shopify's SFN :2021-05-01, 2021-12-31
+
+    section BMO
+    Intern @ BMO    :2020-09-01, 2021-04-30
+
+    section Sustainable Housing Manufacturing Company
+    Intern    :2020-01-01, 2020-08-31
+
+    section School
+    Education :2018-01-01, 2023-05-31
+```
+---
+
 ## 📫 How to reach me:
 
 You can connect with me on LinkedIn, I'll be happy to see you there!
