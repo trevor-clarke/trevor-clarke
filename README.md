@@ -1,18 +1,33 @@
-<h1 align="center">Hi 👋, I'm Trevor Clarke </h1>
-<h3 align="center">A super friendly software-developer based in Canada.</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=trevor-clarke&label=Profile%20views&color=0e75b6&style=flat" alt="trevor-clarke" /> </p>
+# Hi there, I'm Trevor Clarke 👋
 
-- 🔭 I’m currently working at Shopify on our [Storefront Renderer](https://shopify.engineering/how-shopify-reduced-storefront-response-times-rewrite)
+### A Passionate Software Developer from Canada 🍁
 
-- 👯 I’m looking to collaborate on **ANYTHING! Please message me.**
+![Profile Views](https://komarev.com/ghpvc/?username=trevor-clarke&color=0e75b6&style=flat)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trevor-clarke&" alt="trevor-clarke" /></p>
+</div>
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/trevorclarketc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trevorclarketc" height="30" width="40" /></a>
-</p>
+I'm currently contributing to the growth of Shopify, working on our [Storefront Renderer](https://shopify.engineering/how-shopify-reduced-storefront-response-times-rewrite). I'm always open to collaborating on interesting projects and innovative ideas. Feel free to reach out to me!
 
+---
 
+<div align="center">
+
+![Trevor's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trevor-clarke)
+
+</div>
+
+---
+
+## 📫 How to reach me:
+
+You can connect with me on LinkedIn, I'll be happy to see you there!
+
+<a href="https://linkedin.com/in/trevorclarketc" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trevorclarketc" height="30" width="40" />
+</a>
+
+---
