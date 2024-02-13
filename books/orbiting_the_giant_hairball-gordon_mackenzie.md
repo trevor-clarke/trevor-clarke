@@ -4,11 +4,11 @@
 
 **Author:** Gordon MacKenzie
 
-**Started Reading:** {Start Date}
+**Started Reading:** September, 2023
 
-**Finished Reading:** {End Date}
+**Finished Reading:** September, 2023
 
-**Genres:** {Genre1, Genre2, ....}
+**Genres:** Self-improvement
 
 ## Summary
 
