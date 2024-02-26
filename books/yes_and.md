@@ -26,7 +26,7 @@
 
 | Category             | Rating (Out of 5) |
 | -------------------- | ----------------- |
-| Enjoyability         |        0        |
-| Writing Quality      |        0          |
-| Story Depth          |        0        |
-| Value from Book      |        0        |
+| Enjoyability         |        TODO        |
+| Writing Quality      |        TODO          |
+| Story Depth          |        TODO        |
+| Value from Book      |        TODO        |
