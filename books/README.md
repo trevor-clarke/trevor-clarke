@@ -10,13 +10,16 @@ Welcome to my book reviews! I love reading and I often take notes on the books I
 
 
 
+
 <!--BOOK_TABLE_START-->
 | Title | Author | Started Reading | Finished Reading | Genres | Rating |
 | --- | --- | --- | --- | --- | --- |
+| [Coming Home to Yourself](coming_home_to_yourself.md) | OSHO | * December 2023 | - | * Self-improvement | TODO |
 | [The Tools (Summary)](the_tools_phil_stutz_and_barry_michels_summary.md) | John Marshall ( Phil Stutz and Barry Michels ) | * Feb 13, 2024 | Feb 13, 2024 | * Self-improvement | TODO |
 | [Orbiting the Giant Hairball](orbiting_the_giant_hairball-gordon_mackenzie.md) | Gordon MacKenzie | * September, 2023 | September, 2023 | * Self-improvement | 4.5 |
 | [Yes, And](yes_and.md) | Kelly Leonard and Tom Yorton | * January 2024 | DNC | * Self-improvement | TODO |
 <!--BOOK_TABLE_END-->
+
 
 
 
