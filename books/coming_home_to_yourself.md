@@ -2,8 +2,9 @@
 
 ## General Info
 
-**Author:** OSHO
-**Started Reading:** December 2023
+**Author:** Chapman, Jim Dethmer, and Kaley Klemp
+
+**Started Reading:** February, 2024
 
 **Finished Reading:** -
 
