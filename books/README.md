@@ -18,6 +18,7 @@ Welcome to my book reviews! I love reading and I often take notes on the books I
 
 
 
+
 <!--BOOK_TABLE_START-->
 | Title | Author | Started Reading | Finished Reading | Genres | Rating |
 | --- | --- | --- | --- | --- | --- |
@@ -35,6 +36,7 @@ Welcome to my book reviews! I love reading and I often take notes on the books I
 | [Orbiting the Giant Hairball](orbiting_the_giant_hairball-gordon_mackenzie.md) | Gordon MacKenzie | * September, 2023 | September, 2023 | * Self-improvement | 4.5 |
 | [Yes, And](yes_and.md) | Kelly Leonard and Tom Yorton | * January 2024 | DNC | * Self-improvement | TODO |
 <!--BOOK_TABLE_END-->
+
 
 
 
