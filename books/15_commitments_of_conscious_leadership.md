@@ -99,6 +99,15 @@ The "15 Commitments of Conscious Leadership" is a guide to becoming a more consc
 
 - No notes
 
+### Books mentioned in this book that I noted
+
+(note there may be more, listed in the references section of the book)
+
+Getting Things Done by David Allen
+The Big Leap by Gay Hendricks
+Play by Stuart Brown
+The Happiness Hypothesis by Jonathon Haidt
+
 ## Plusses
 
 - TODO
