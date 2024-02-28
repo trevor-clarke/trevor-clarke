@@ -6,7 +6,7 @@
 
 **Started Reading:** February, 2024
 
-**Finished Reading:** -
+**Finished Reading:** February, 2024
 
 **Genres:** Self-improvement
 
@@ -69,17 +69,25 @@ The "15 Commitments of Conscious Leadership" is a guide to becoming a more consc
 
 - No notes
 
-### Commitment 11: Savoring the Journey
+### Commitment 11: Sourcing Approval, Control, and Security
 
-- No notes
+- “The issue is “wanting” approval, control and security. As soon as we want something, anything, it implies that we don’t have it. Wanting comes from a belief in lack. I can only want what I believe I don’t already have. Wanting approval, control and security implies that I don’t already have them. Wanting says I don’t have it and I need to go outside of myself to get it. This belief in lack can be found at the root of all suffering and the cause of all seeking.”
+- “ Hale is, “You cannot go anywhere to get what you already have and you cannot do anything to become what you already are.”
+- "“Those who believe they lack move in the world from fear and those who believe they are already whole, perfect, and complete, lacking nothing, move in the world from love and creativity.”
 
-### Commitment 12: Being the Resolution
+### Commitment 12: Having enough of everything
 
-- No notes
+- “She goes on to explain the three truths of sufficiency: (1) money is like water—regardless of the flow, you direct where it goes; (2) what you appreciate, appreciates; and (3) collaboration creates prosperity. We highly recommend The Soul of Money”
+- “To experience the shift from scarcity to sufficiency in this moment—since sufficiency is a state of being, not just a data point—we recommend doing this meditation:
+  Check in this moment to see what your experience is right now. In this moment, allow yourself to take a few deep breaths. Notice the air moving in and out of your lungs. And notice the breath that sustains you. And that there is enough.
+  And bring your attention to your physical body. Pay attention to any sensations. Notice what is. See if there is anything lacking. Check to see in this moment right now what your experience is. As you breathe in, notice the wholeness of your physicality.
+  In this moment now, notice your experience of time. Notice that there is no past and no future. There is only now. The past is behind and the future is ahead. In this now moment, what is your relationship with time? Notice that the edges of time begin to blur as now refreshes itself with each moment. Always now. And check to see in this now moment if you have enough time.
+  As you continue this exercise, bring to your mind anything you have been believing is scarce, that you don’t have enough of. And check in this now moment if anything is missing. Or if you have everything you need, neither excess nor scarcity.
+  Notice that when you are fully present in this now moment, you have plenty of everything. Everything is perfect. Because it just is. To experience scarcity, you must be outside yourself and the present moment—anticipating the lack of something in the future or harboring the lack of something from the past. When there is just now, there is always enough.”
 
-### Commitment 13: Creating Win for All Solutions
+### Commitment 13: Experiencing the World as an Ally
 
-- No notes
+- “Other people don’t even have to consciously commit to being your ally. If you are committed to experiencing them that way, they are always instrumental to your growth.”
 
 ### Commitment 14: Being the Change
 
