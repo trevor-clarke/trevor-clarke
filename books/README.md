@@ -17,6 +17,7 @@ Welcome to my book reviews! I love reading and I often take notes on the books I
 
 
 
+
 <!--BOOK_TABLE_START-->
 | Title | Author | Started Reading | Finished Reading | Genres | Rating |
 | --- | --- | --- | --- | --- | --- |
@@ -24,6 +25,7 @@ Welcome to my book reviews! I love reading and I often take notes on the books I
 | [The Cold Start Problem](the_cold_start_problem.md) | Andrew Chen | * January 2024 | - | * Self-improvement | TODO |
 | [But What If We're Wrong?](but_what_if_were_wrong.md) | Chuck Klosterman | * January 2024 | - | * Self-improvement | TODO |
 | [The Book of Boundaries](the_book_of_boundaries.md) | Melissa Urban | * November 2023 | - | * Self-improvement | TODO |
+| [15 Commitments of Conscious Leadership](15_commitments_of_conscious_leadership.md) | Jim Dethmer, Diana Chapman, and Kaley Klemp | * February, 2024 | February, 2024 | * Self-improvement | TODO |
 | [White Fragility](white_fragility.md) | Robin Diangelo | * December 2023 | - | * Self-improvement | TODO |
 | [Willpower Doesn't Work](willpower_doesnt_work.md) | Benjamin Hardy | * January 2024 | February 2024 | * Self-improvement | TODO |
 | [Coming Home to Yourself](coming_home_to_yourself.md) | TODO | * February, 2024 | - | * Self-improvement | TODO |
@@ -33,6 +35,7 @@ Welcome to my book reviews! I love reading and I often take notes on the books I
 | [Orbiting the Giant Hairball](orbiting_the_giant_hairball-gordon_mackenzie.md) | Gordon MacKenzie | * September, 2023 | September, 2023 | * Self-improvement | 4.5 |
 | [Yes, And](yes_and.md) | Kelly Leonard and Tom Yorton | * January 2024 | DNC | * Self-improvement | TODO |
 <!--BOOK_TABLE_END-->
+
 
 
 
