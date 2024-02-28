@@ -14,3 +14,5 @@
 - The Big Leap by Gay Hendricks
 - Play by Stuart Brown
 - The Happiness Hypothesis by Jonathon Haidt
+- Radical Candor by Radical Candor by Kim Scott
+
