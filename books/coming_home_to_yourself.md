@@ -2,7 +2,7 @@
 
 ## General Info
 
-**Author:** Chapman, Jim Dethmer, and Kaley Klemp
+**Author:** TODO
 
 **Started Reading:** February, 2024
 
