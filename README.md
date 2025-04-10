@@ -2,9 +2,6 @@ Hey there! 👋
 
 I'm **Trevor Clarke,** a human based in Canada. 
 
-I work for [Shopify](https://github.com/Shopify) and contribute to [Storefront Renderer](https://shopify.engineering/how-shopify-reduced-storefront-response-times-rewrite).
-
-
 If you'd like to get in touch, reach out to me: [TrevorC.ca](https://TrevorC.ca).
 
 <div align="left">
