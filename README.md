@@ -11,14 +11,19 @@ If you'd like to get in touch, reach out to me: [TrevorC.ca](https://TrevorC.ca)
     </summary>
     
 ```mermaid
-
 gantt
     dateFormat  YYYY-MM-DD
 
+    section Wealthsimple
+    Developer @ Wealthsimple :2025-08-08, 2026-04-01
+
+    section CarltonOne
+    Developer @ CarltonOne :2025-01-27, 2025-08-01
+
     section Shopify
-    Developer @ Shopify's SFR :a1, 2023-09-01, 2024-02-09
-    Intern @ Shopify's SFR    :after a1, 2022-01-01, 2023-05-31
-    Intern @ Shopify's SFN :2021-05-01, 2021-12-31
+    Developer @ Shopify's SFR :a1, 2023-09-01, 2024-11-07
+    Intern @ Shopify's SFR    :2022-01-01, 2023-05-31
+    Intern @ Shopify's SFN    :2021-05-01, 2021-12-31
 
     section BMO
     Intern @ BMO    :2020-09-01, 2021-04-30
@@ -28,7 +33,6 @@ gantt
 
     section School
     Computer Science, Coop (Honours) :2018-01-01, 2023-05-31
-    
 ```
     
 </details>
