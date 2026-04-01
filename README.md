@@ -27,7 +27,7 @@ gantt
     Intern    :2020-01-01, 2020-08-31
 
     section School
-    Education :2018-01-01, 2023-05-31
+    Computer Science, Coop (Honours) :2018-01-01, 2023-05-31
     
 ```
     
