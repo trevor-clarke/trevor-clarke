@@ -15,7 +15,8 @@ gantt
     dateFormat  YYYY-MM-DD
 
     section Wealthsimple
-    Developer @ Wealthsimple :2025-08-08, 2026-04-01
+    Developer II @ Wealthsimple :2026-07-16, 2026-11-10
+    Developer @ Wealthsimple :2025-08-08, 2026-07-15
 
     section CarltonOne
     Developer @ CarltonOne :2025-01-27, 2025-08-01
